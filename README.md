@@ -1,3 +1,7 @@
+
+
+
+
 ***Application de Gestion de Matériel de Bâtiment***
 
 **1- Gestion des profils utilisateurs**
@@ -19,3 +23,7 @@
   -Nombres de client
    -Nombres de materiel
    -Nombre de location
+
+
+
+   https://github.com/user-attachments/assets/38003590-10bc-4b77-8f0c-30b90388721e
